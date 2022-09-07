@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(238, 238, 245);
+}
+.divtudo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linha{
+    clear: both;
+}
+.cabecalho{
+    background-color: blue;
+    min-height: 80px;
+    font-size: 16px;
+    text-align: left;
+}
+#titulocabecalho{
+    color: aliceblue;
+    float: left;
+    min-width: 50px;
+    font-size: 16px;
+    text-align: letf;
+}
